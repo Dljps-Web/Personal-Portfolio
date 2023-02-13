@@ -2,4 +2,4 @@
 
 
 
-Wanna take a look? https://Personal-Portfolio.github.io
+Wanna take a look? https://harurudo.github.io/Personal-Portfolio/
